@@ -1,3 +1,3 @@
 # Hello-World.
 My first Git Hub project.
-JuhoVaahtera, TjimiSJ
+JuhoVaahtera, LeeviStade
